@@ -1,7 +1,7 @@
 # Pytorch_chatbot
 A Pytorch-based chatbot with a GUI built with Tkinter
  
- ## Analysis Motivation
+ ## Motivation
 We interact with chatbot everyday. As a member of the Lenovo eServices team, we have a chatbot called [Lena](https://lena.lenovo.com/) that helps customer answer questions
 about their machines and warranties. I'd like to build a simple chatbot myself while experiment with PyTorch, a popular deep learning package. 
 
